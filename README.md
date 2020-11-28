@@ -4,4 +4,14 @@
 
 An open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software.
 
+## Usage
+
+First, let's write a simple Hello World program with Aero.
+
+```py
+print("Hello World");
+```
+
+
+
 
