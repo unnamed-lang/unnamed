@@ -6,7 +6,7 @@ An open-source programming language to empower everyone to build clean-cut, effi
 
 ## Usage
 
-First, let's write a simple Hello World program with Aero.
+First, let's write a simple _"Hello World"_ program with Aero.
 
 ```py
 print("Hello World");
