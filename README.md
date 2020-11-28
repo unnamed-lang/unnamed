@@ -9,9 +9,11 @@ An open-source programming language to empower everyone to build clean-cut, effi
 First, let's write a simple _"Hello World"_ program with Aero.
 
 ```py
-print("Hello World");
+print "Hello World"
 ```
 
+We can also use other keywords that point to the same action with Aero, called `alternatives`, as such:
 
-
-
+```aero
+say "Hello World"
+```
