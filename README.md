@@ -12,7 +12,7 @@ First, let's write a simple _"Hello World"_ program with Aero.
 print "Hello World"
 ```
 
-We can also use other keywords that point to the same action with Aero, called `alternatives`, as such:
+Due to the focus on modularity and ease of use in Aero, you can also use other keywords that point to the same action, called `alternatives`, as such:
 
 ```aero
 say "Hello World"
