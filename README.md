@@ -8,7 +8,7 @@ An open-source programming language to empower everyone to build clean-cut, effi
 
 First, let's write a simple Hello World program with Aero.
 
-```aero
+```py
 print("Hello World");
 ```
 
