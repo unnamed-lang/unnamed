@@ -1,0 +1,6 @@
+print "Hello World."
+print "This is Aero."
+say "Hello World - this is printed with the say keyword."
+
+10 + 2
+8

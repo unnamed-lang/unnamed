@@ -23,7 +23,7 @@ def lex(filecontents):
         elif tok == "\n":
             tok = ""
 
-        elif tok == "print" or tok == "PRINT":
+        elif tok == "print" or tok == "PRINT" or tok == "say":
             tokens.append("PRINT")
             tok = ""
         elif tok == "\"":
