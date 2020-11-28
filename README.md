@@ -9,7 +9,7 @@ An open-source programming language to empower everyone to build clean-cut, effi
 First, let's write a simple _"Hello World"_ program with Aero:
 
 ```py
-print "Hello World"
+print => "Hello World"
 ```
 
 The `print` keyword is the standard to write items to the console/terminal throughout the entire language. This, however, is not the only option.
@@ -17,5 +17,5 @@ The `print` keyword is the standard to write items to the console/terminal throu
 Due to the focus on modularity and ease of use in Aero, you can also use other keywords that point to the same action, called `alternatives`, as such:
 
 ```aero
-say "Hello World"
+say => "Hello World"
 ```
