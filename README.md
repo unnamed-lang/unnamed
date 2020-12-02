@@ -4,6 +4,8 @@
 
 An open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software.
 
+Contributing guide and full language features coming soon. Stay tuned!
+
 ## Core
 
 First, let's write a simple _"Hello World"_ program with Aero:
